@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  background-color: darkblue;
+}
+
+h2 {
+  color: darkgreen;
+  background-color: lightyellow;
+}
+
+p {
+  color: darkred;
+  background-color: lightgray;
+}
+
+div {
+  color: white;
+  background-color: black;
+}
