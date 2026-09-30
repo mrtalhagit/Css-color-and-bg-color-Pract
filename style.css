@@ -1,19 +1,27 @@
-h1 {
-  color: white;
-  background-color: darkblue;
-}
-
-h2 {
-  color: darkgreen;
-  background-color: lightyellow;
-}
-
-p {
-  color: darkred;
-  background-color: lightgray;
-}
-
-div {
-  color: white;
-  background-color: black;
-}
+        h1{
+            color: white;
+            background-color: green;
+            border: darkblue 3px solid;
+            padding: 0.8%;
+            
+        }
+        h2{
+            color: brown;
+            background-color: rgba(255, 215, 0, 0.6);
+            padding: 0.7%;
+            
+        }
+        p{
+            background-color: white;
+            color: rgb(43, 142, 182);
+            border: blue 2px solid;
+            padding: 0.65%;  
+            margin-bottom: 0px;
+        }
+        .pl{
+            border: red 3px dotted;
+            background-color: yellow;
+            margin-top: 20px;
+            padding: 0.7%;
+        }
+        
